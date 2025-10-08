@@ -1,2 +1,7 @@
 iPhoneOS6.0.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
 iPhoneOS7.0.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
+iPhoneOS3.0.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
+MacOSX11.0.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
+MacOSX10.5.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
+MacOSX10.6.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
+iPhoneOS2.0.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
