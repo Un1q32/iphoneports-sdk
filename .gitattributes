@@ -6,3 +6,4 @@ MacOSX10.5.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
 MacOSX10.6.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
 iPhoneOS2.0.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
 iPhoneOS1.0.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
+MacOSX10.4.sdk.tar.xz filter=lfs diff=lfs merge=lfs -text
